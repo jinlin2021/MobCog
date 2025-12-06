@@ -1,0 +1,11 @@
+请基于多张街景图片进行适老性评估，仅用可见信息。
+
+输出结构（≤450字）：
+A. 要点概述（3–6条）。
+B. 逐图评估（图#n：先证据后结论，≤8条/图）。
+C. 评分（每项0–5，未知=无法判断）：1 人行道与连续通行；2 过街设施与信号；3 缘石切坡/坡道；4 座椅与休憩（含遮荫）；5 照明与夜间安全；6 公共交通可达性（可见要素）；7 信息与导向标识；8 整洁与维护；9 慢行分隔与交通冲突；10 绿化与环境舒适。
+D. 总分0–100（若有“无法判断”，其余项等比归一）。
+E. 高优先建议（问题→影响→可行改造）。
+F. 不确定点与原因。
+
+请在结尾附上名为 analysis_json 的 JSON，仅含以下键：summary、per_image[{id,observations[],issues[]}]、scores{continuity,crossing,ramps,seating_shade,lighting,pt_access,signage,cleanliness,slow_conflicts,greenery}、total_score、normalized、risks[]、recommendations[{action,rationale}]、unknowns[]。

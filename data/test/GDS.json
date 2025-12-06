@@ -1,0 +1,115 @@
+{
+    "meta": {
+      "scale_name": "GDS-like",
+      "total_score": 15,
+      "description": "A 15-item yes/no scale. Each depressive answer scores 1 point (total 0–15)."
+    },
+    "items": [
+      {
+        "id": "GDS_1",
+        "prompt": "Recently, do you often feel low in mood or lacking in energy? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_2",
+        "prompt": "Have you lost interest in activities you used to enjoy? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_3",
+        "prompt": "Do you often feel that being alone is easier than being with others? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_4",
+        "prompt": "Do you often feel lonely and have few people to talk to? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_5",
+        "prompt": "Recently, do you often worry about your health so much that it affects your mood? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_6",
+        "prompt": "Do you feel that every day is about the same and there is little to look forward to? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_7",
+        "prompt": "Do you become easily irritated or annoyed by small things? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_8",
+        "prompt": "Do you often feel that you are a burden to your family or others? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_9",
+        "prompt": "Does your worsening memory bother or upset you? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_10",
+        "prompt": "Recently, do you find it hard to calm down and enjoy any activity? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_11",
+        "prompt": "Do you often sleep poorly and still feel tired after waking up? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_12",
+        "prompt": "Do you feel less willing than before to go out or meet friends? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_13",
+        "prompt": "Do you often dwell on unhappy events or thoughts? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_14",
+        "prompt": "Do you feel that others care about you less than before? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      },
+      {
+        "id": "GDS_15",
+        "prompt": "Do you sometimes feel that life is not very meaningful? (Yes/No)",
+        "max_score": 1,
+        "scoring_strategy": "yes_no",
+        "depressed_answer": "Yes"
+      }
+    ]
+  }
+  

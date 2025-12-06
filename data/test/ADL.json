@@ -1,0 +1,120 @@
+{
+    "meta": {
+      "scale_name": "ADL-like",
+      "total_score": 100,
+      "description": "A 10-item ADL-like scale. Each item is scored 0, 5, or 10 points, reflecting independence, partial assistance, or full dependence."
+    },
+    "items": [
+      {
+        "id": "ADL_1_eating",
+        "prompt": "[Eating] When you eat, what is your usual situation?\nA. I can eat independently without any help\nB. I sometimes need help to prepare or cut the food\nC. I need someone to feed me or assist throughout the meal",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_2_bathing",
+        "prompt": "[Bathing] When you take a bath or shower, what is your usual situation?\nA. I can bathe independently\nB. I need someone nearby to watch over me or help prepare things\nC. I need full assistance from someone else",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_3_dressing",
+        "prompt": "[Dressing] When you dress and undress, what is your usual situation?\nA. I can do everything myself, including buttons and zippers\nB. I can do most parts but sometimes need help\nC. I need someone to dress or undress me",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_4_toileting",
+        "prompt": "[Toileting] When you use the toilet, what is your usual situation?\nA. I can use the toilet and clean myself independently\nB. I need someone to support or remind me\nC. I need full help or rely on diapers",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_5_transfers",
+        "prompt": "[Transfers] When you get up from bed or move to a chair, what is your usual situation?\nA. I can stand up, sit down, and move independently\nB. I need to hold furniture or have someone lightly support me\nC. I need others to use a lot of strength or almost lift me",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_6_indoor_walking",
+        "prompt": "[Indoor walking] When you walk indoors at home or inside a building, what is your usual situation?\nA. I can walk indoors independently\nB. I need a cane, walker, or occasional support\nC. I can hardly walk indoors independently",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_7_stairs",
+        "prompt": "[Stairs] When you face stairs or a short ramp, what is your usual situation?\nA. I can go up and down by myself\nB. I need to hold a handrail or have someone with me\nC. I cannot use stairs safely",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_8_community_mobility",
+        "prompt": "[Community mobility] When you take a bus or metro to go out, what is your usual situation?\nA. I can use public transport independently on simple routes\nB. I need someone to accompany me or only use very familiar routes\nC. I almost never use public transport and rely on others for rides",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_9_medication",
+        "prompt": "[Medication] Regarding your daily medication, what is your usual situation?\nA. I can remember and take my medicine on time by myself\nB. I need reminders or a prepared pill box\nC. I rely completely on others to manage and remind me",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      },
+      {
+        "id": "ADL_10_daily_management",
+        "prompt": "[Daily management] For tasks like simple shopping, paying bills, or remembering important appointments, what is your usual situation?\nA. I can arrange and handle most of these by myself\nB. I can do simple tasks, but need family help for complex ones\nC. I can hardly handle these and rely on others completely",
+        "max_score": 10,
+        "scoring_strategy": "choice_map",
+        "options": {
+          "A": 10,
+          "B": 5,
+          "C": 0
+        }
+      }
+    ]
+  }
+  

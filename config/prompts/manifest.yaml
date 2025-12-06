@@ -1,0 +1,24 @@
+version: 1.0
+default_locale: zh
+
+# 是否在每张图片消息上附加 detail: "high"
+use_image_detail: true
+
+# 推理参数（可被代码覆盖）
+model_params:
+  temperature: 0.3
+  max_tokens: 1200
+
+# 输出设置
+output:
+  dir: outputs
+  ensure_score: true   # 若 JSON 缺 total_score/normalized，自动按等比归一补算
+
+prompts:
+  zh:
+    system: system_agefriendly_zh.txt
+    user:   user_agefriendly_zh.txt
+  # 若需要英文可在此补充：
+  # en:
+  #   system: system_agefriendly_en.txt
+  #   user:   user_agefriendly_en.txt

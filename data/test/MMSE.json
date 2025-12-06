@@ -1,0 +1,130 @@
+{
+    "meta": {
+      "scale_name": "MMSE-like",
+      "total_score": 30,
+      "description": "A simplified MMSE-like cognitive test for checking persona consistency before and after simulation tasks. It is not equivalent to the clinical MMSE."
+    },
+    "items": [
+      {
+        "id": "MMSE_A1_year",
+        "section": "A. Orientation in time",
+        "prompt": "In this travel story, what year is it now? (Answer for the story setting, not real-world time.)",
+        "max_score": 1,
+        "scoring_strategy": "manual",
+        "scoring_hint": "Give 1 point if the story year matches the preset year; 0 otherwise."
+      },
+      {
+        "id": "MMSE_A1_month",
+        "section": "A. Orientation in time",
+        "prompt": "In this travel story, which month is it now, and roughly what season?",
+        "max_score": 1,
+        "scoring_strategy": "manual",
+        "scoring_hint": "Give 1 point if the month and season roughly match the story setting; 0 otherwise."
+      },
+      {
+        "id": "MMSE_A1_weekday",
+        "section": "A. Orientation in time",
+        "prompt": "In the story setting, what day of the week is today, and is it morning, afternoon, or evening?",
+        "max_score": 1,
+        "scoring_strategy": "manual",
+        "scoring_hint": "Give 1 point if the weekday and time of day are basically correct; 0 otherwise."
+      },
+      {
+        "id": "MMSE_A2_place_city",
+        "section": "A. Orientation in place",
+        "prompt": "In this travel story, which city are you in?",
+        "max_score": 1,
+        "scoring_strategy": "manual",
+        "scoring_hint": "Give 1 point if the city matches the scenario; 0 otherwise."
+      },
+      {
+        "id": "MMSE_A2_place_type",
+        "section": "A. Orientation in place",
+        "prompt": "What type of place are you at now in the story? For example, at home, at a bus stop, in a hospital, or in a mall.",
+        "max_score": 1,
+        "scoring_strategy": "manual",
+        "scoring_hint": "Give 1 point if the place type matches the current task phase; 0 otherwise."
+      },
+      {
+        "id": "MMSE_A2_indoor_outdoor",
+        "section": "A. Orientation in place",
+        "prompt": "Do you think you are roughly indoors or outdoors now in the story?",
+        "max_score": 1,
+        "scoring_strategy": "manual",
+        "scoring_hint": "Give 1 point if it matches the environment setting; 0 otherwise."
+      },
+      {
+        "id": "MMSE_B1_immediate_recall",
+        "section": "B. Immediate recall",
+        "prompt": "Please remember these three words: bus, wallet, park. Please repeat all three words immediately.",
+        "max_score": 3,
+        "scoring_strategy": "manual",
+        "scoring_hint": "3 correct words = 3 points; 2 = 2 points; 1 = 1 point; 0 correct = 0 points."
+      },
+      {
+        "id": "MMSE_C1_attention",
+        "section": "C. Attention / working memory",
+        "prompt": "Starting from 20, please count backward by 1 and say five numbers, for example: 20, 19, 18, and so on. Say as many as you can.",
+        "max_score": 5,
+        "scoring_strategy": "manual",
+        "scoring_hint": "Score 0–5 based on completeness and number of errors in the backward counting."
+      },
+      {
+        "id": "MMSE_D1_travel_goal",
+        "section": "D. Travel context orientation",
+        "prompt": "What is the main purpose of this trip? For example, seeing a doctor, buying groceries, visiting family, or something else.",
+        "max_score": 2,
+        "scoring_strategy": "manual",
+        "scoring_hint": "2 points if consistent with the task and persona, 1 point if vague but reasonable, 0 if clearly inconsistent."
+      },
+      {
+        "id": "MMSE_D2_travel_company",
+        "section": "D. Travel context orientation",
+        "prompt": "On this trip, are you traveling alone or with someone accompanying you?",
+        "max_score": 2,
+        "scoring_strategy": "manual",
+        "scoring_hint": "2 points if consistent with the mobility/affect profile, 1 if slightly inconsistent, 0 if completely mismatched."
+      },
+      {
+        "id": "MMSE_E1_delayed_recall",
+        "section": "E. Delayed recall",
+        "prompt": "Earlier I asked you to remember three words. Do you still remember them? Please recall them as best you can.",
+        "max_score": 3,
+        "scoring_strategy": "manual",
+        "scoring_hint": "3 correct words = 3 points; 2 = 2 points; 1 = 1 point; 0 correct = 0 points."
+      },
+      {
+        "id": "MMSE_F1_naming_objects",
+        "section": "F. Language",
+        "prompt": "Please tell me what this is: a bus stop sign used for boarding and alighting; and what this is: a wheelchair used to assist movement. You may describe them in your own words.",
+        "max_score": 2,
+        "scoring_strategy": "manual",
+        "scoring_hint": "2 points if both objects are correctly named or described, 1 if only one, 0 if neither."
+      },
+      {
+        "id": "MMSE_F2_three_step_command",
+        "section": "F. Language",
+        "prompt": "Please follow three steps in order: first, say 'I am ready'; second, briefly describe your surroundings; third, tell me what you plan to do next.",
+        "max_score": 3,
+        "scoring_strategy": "manual",
+        "scoring_hint": "3 points if all three steps are completed in order; 1–2 points if partially completed or disordered; 0 if the command cannot be followed."
+      },
+      {
+        "id": "MMSE_G1_clock",
+        "section": "G. Visuospatial / planning",
+        "prompt": "Assume it is 3 p.m. Please describe the positions of the hour and minute hands on a clock.",
+        "max_score": 2,
+        "scoring_strategy": "manual",
+        "scoring_hint": "2 points if the relative positions are correct (for example, the minute hand at 12, the hour hand at 3); 1 if roughly correct; 0 if clearly wrong."
+      },
+      {
+        "id": "MMSE_G2_route_description",
+        "section": "G. Visuospatial / planning",
+        "prompt": "In simple words, please describe the rough route from your home to the nearest bus stop.",
+        "max_score": 2,
+        "scoring_strategy": "manual",
+        "scoring_hint": "2 points if the start, path, and destination are clear and reasonable; 1 if somewhat organized but vague; 0 if the description is chaotic or not meaningful."
+      }
+    ]
+  }
+  

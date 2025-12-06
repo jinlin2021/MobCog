@@ -1,0 +1,11 @@
+Assess the age-friendliness of multiple streetscape images using only observable cues.
+
+Structure (≤450 words):
+A. Key takeaways (3–6 bullets).
+B. Per-image assessment (Image #n: evidence → conclusion, ≤8 bullets/image).
+C. Scoring (each 0–5; unknown allowed): 1 Sidewalk continuity; 2 Crossing facilities & signals; 3 Curb cuts/ramps; 4 Seating & shade; 5 Lighting & night safety; 6 Public transport accessibility (visible cues); 7 Information & signage; 8 Cleanliness & maintenance; 9 Slow-traffic separation & conflicts; 10 Greenery & comfort.
+D. Overall score 0–100 (renormalize if any items are “unknown”).
+E. High-priority recommendations (problem → impact → feasible fix).
+F. Uncertainties & reasons.
+
+Append a JSON block named analysis_json with keys: summary, per_image[{id,observations[],issues[]}], scores{continuity,crossing,ramps,seating_shade,lighting,pt_access,signage,cleanliness,slow_conflicts,greenery}, total_score, normalized, risks[], recommendations[{action,rationale}], unknowns[].

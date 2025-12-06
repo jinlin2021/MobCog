@@ -1,0 +1,2882 @@
+[
+  {
+    "id": 1,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Zheng Liqiang",
+    "age": 70,
+    "cognitive_level": "intact cognition and reliable spatial orientation",
+    "mobility": "robust mobility with independent long-distance walking",
+    "affect_profile": "emotionally stable and socially engaged",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Zheng Liqiang is a 70-year-old man with intact cognition and reliable spatial orientation, robust mobility with independent long-distance walking, and emotionally stable and socially engaged."
+  },
+  {
+    "id": 2,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "female",
+    "name": "Zhou Guilan",
+    "age": 67,
+    "cognitive_level": "intact cognition and well-preserved executive function",
+    "mobility": "robust mobility and a steady, confident gait",
+    "affect_profile": "stable mood and actively engaged in daily life",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Zhou Guilan is a 67-year-old woman with intact cognition and well-preserved executive function, robust mobility and a steady, confident gait, and stable mood and actively engaged in daily life."
+  },
+  {
+    "id": 3,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Li Zhiqiang",
+    "age": 77,
+    "cognitive_level": "intact cognition with clear memory and attention",
+    "mobility": "robust mobility and a steady, confident gait",
+    "affect_profile": "stable mood and actively engaged in daily life",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Li Zhiqiang is a 77-year-old man with intact cognition with clear memory and attention, robust mobility and a steady, confident gait, and stable mood and actively engaged in daily life."
+  },
+  {
+    "id": 4,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Wu Yongqiang",
+    "age": 67,
+    "cognitive_level": "intact cognition with clear memory and attention",
+    "mobility": "robust mobility with independent long-distance walking",
+    "affect_profile": "stable mood and actively engaged in daily life",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Wu Yongqiang is a 67-year-old man with intact cognition with clear memory and attention, robust mobility with independent long-distance walking, and stable mood and actively engaged in daily life."
+  },
+  {
+    "id": 5,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Zheng Jianhua",
+    "age": 79,
+    "cognitive_level": "intact cognition and well-preserved executive function",
+    "mobility": "robust mobility and easy use of stairs and ramps",
+    "affect_profile": "stable mood and actively engaged in daily life",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Zheng Jianhua is a 79-year-old man with intact cognition and well-preserved executive function, robust mobility and easy use of stairs and ramps, and stable mood and actively engaged in daily life."
+  },
+  {
+    "id": 6,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Wu Zhiqiang",
+    "age": 71,
+    "cognitive_level": "intact cognition with clear memory and attention",
+    "mobility": "robust mobility with independent long-distance walking",
+    "affect_profile": "stable, positive mood with regular participation in activities",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Wu Zhiqiang is a 71-year-old man with intact cognition with clear memory and attention, robust mobility with independent long-distance walking, and stable, positive mood with regular participation in activities."
+  },
+  {
+    "id": 7,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Li Junjie",
+    "age": 76,
+    "cognitive_level": "intact cognition with clear memory and attention",
+    "mobility": "robust mobility and easy use of stairs and ramps",
+    "affect_profile": "emotionally stable and socially engaged",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Li Junjie is a 76-year-old man with intact cognition with clear memory and attention, robust mobility and easy use of stairs and ramps, and emotionally stable and socially engaged."
+  },
+  {
+    "id": 8,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "female",
+    "name": "Huang Shuzhen",
+    "age": 70,
+    "cognitive_level": "intact cognition and reliable spatial orientation",
+    "mobility": "robust mobility and a steady, confident gait",
+    "affect_profile": "stable, positive mood with regular participation in activities",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Huang Shuzhen is a 70-year-old woman with intact cognition and reliable spatial orientation, robust mobility and a steady, confident gait, and stable, positive mood with regular participation in activities."
+  },
+  {
+    "id": 9,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "female",
+    "name": "Wu Yuhua",
+    "age": 77,
+    "cognitive_level": "intact cognition and reliable spatial orientation",
+    "mobility": "robust mobility with independent long-distance walking",
+    "affect_profile": "stable, positive mood with regular participation in activities",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Wu Yuhua is a 77-year-old woman with intact cognition and reliable spatial orientation, robust mobility with independent long-distance walking, and stable, positive mood with regular participation in activities."
+  },
+  {
+    "id": 10,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "female",
+    "name": "Zheng Shuzhen",
+    "age": 65,
+    "cognitive_level": "intact cognition and well-preserved executive function",
+    "mobility": "robust mobility and easy use of stairs and ramps",
+    "affect_profile": "stable mood and actively engaged in daily life",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Zheng Shuzhen is a 65-year-old woman with intact cognition and well-preserved executive function, robust mobility and easy use of stairs and ramps, and stable mood and actively engaged in daily life."
+  },
+  {
+    "id": 11,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "female",
+    "name": "Zhao Xiuzhen",
+    "age": 74,
+    "cognitive_level": "intact cognition with clear memory and attention",
+    "mobility": "robust mobility and a steady, confident gait",
+    "affect_profile": "emotionally stable and socially engaged",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Zhao Xiuzhen is a 74-year-old woman with intact cognition with clear memory and attention, robust mobility and a steady, confident gait, and emotionally stable and socially engaged."
+  },
+  {
+    "id": 12,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "female",
+    "name": "Chen Yuzhen",
+    "age": 69,
+    "cognitive_level": "intact cognition and reliable spatial orientation",
+    "mobility": "robust mobility and a steady, confident gait",
+    "affect_profile": "stable, positive mood with regular participation in activities",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Chen Yuzhen is a 69-year-old woman with intact cognition and reliable spatial orientation, robust mobility and a steady, confident gait, and stable, positive mood with regular participation in activities."
+  },
+  {
+    "id": 13,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "female",
+    "name": "Zhou Aihua",
+    "age": 69,
+    "cognitive_level": "intact cognition with clear memory and attention",
+    "mobility": "robust mobility and a steady, confident gait",
+    "affect_profile": "stable, positive mood with regular participation in activities",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Zhou Aihua is a 69-year-old woman with intact cognition with clear memory and attention, robust mobility and a steady, confident gait, and stable, positive mood with regular participation in activities."
+  },
+  {
+    "id": 14,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Wu Jianhua",
+    "age": 75,
+    "cognitive_level": "intact cognition and reliable spatial orientation",
+    "mobility": "robust mobility with independent long-distance walking",
+    "affect_profile": "emotionally stable and socially engaged",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Wu Jianhua is a 75-year-old man with intact cognition and reliable spatial orientation, robust mobility with independent long-distance walking, and emotionally stable and socially engaged."
+  },
+  {
+    "id": 15,
+    "profile_id": "P1",
+    "profile_label": "Healthy, active",
+    "gender": "male",
+    "name": "Wu Haiming",
+    "age": 78,
+    "cognitive_level": "intact cognition and reliable spatial orientation",
+    "mobility": "robust mobility with independent long-distance walking",
+    "affect_profile": "stable mood and actively engaged in daily life",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      90,
+      100
+    ],
+    "expected_gds_range": [
+      0,
+      3
+    ],
+    "description": "Wu Haiming is a 78-year-old man with intact cognition and reliable spatial orientation, robust mobility with independent long-distance walking, and stable mood and actively engaged in daily life."
+  },
+  {
+    "id": 16,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Zhao Zhiqiang",
+    "age": 74,
+    "cognitive_level": "intact cognition and the ability to follow schedules",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "emotionally stable yet frequently concerned about overexertion",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zhao Zhiqiang is a 74-year-old man with intact cognition and the ability to follow schedules, physically frail and easily fatigued when walking, and emotionally stable yet frequently concerned about overexertion."
+  },
+  {
+    "id": 17,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Liu Yongqiang",
+    "age": 70,
+    "cognitive_level": "intact cognition with good orientation and reasoning",
+    "mobility": "physically frail and unsteady on stairs or slopes",
+    "affect_profile": "stable mood with ongoing worries about physical safety",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Liu Yongqiang is a 70-year-old man with intact cognition with good orientation and reasoning, physically frail and unsteady on stairs or slopes, and stable mood with ongoing worries about physical safety."
+  },
+  {
+    "id": 18,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Wang Junjie",
+    "age": 77,
+    "cognitive_level": "intact cognition and the ability to follow schedules",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "stable mood with ongoing worries about physical safety",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Wang Junjie is a 77-year-old man with intact cognition and the ability to follow schedules, physically frail and easily fatigued when walking, and stable mood with ongoing worries about physical safety."
+  },
+  {
+    "id": 19,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Sun Desheng",
+    "age": 80,
+    "cognitive_level": "intact cognition and the ability to follow schedules",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "emotionally stable but concerned about falls and fatigue",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Sun Desheng is a 80-year-old man with intact cognition and the ability to follow schedules, physically frail and easily fatigued when walking, and emotionally stable but concerned about falls and fatigue."
+  },
+  {
+    "id": 20,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "female",
+    "name": "Zhao Shuzhen",
+    "age": 84,
+    "cognitive_level": "intact cognition with good orientation and reasoning",
+    "mobility": "physically frail with slow gait and limited endurance",
+    "affect_profile": "emotionally stable yet frequently concerned about overexertion",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zhao Shuzhen is a 84-year-old woman with intact cognition with good orientation and reasoning, physically frail with slow gait and limited endurance, and emotionally stable yet frequently concerned about overexertion."
+  },
+  {
+    "id": 21,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Zhao Desheng",
+    "age": 83,
+    "cognitive_level": "intact cognition and preserved route knowledge",
+    "mobility": "physically frail and unsteady on stairs or slopes",
+    "affect_profile": "emotionally stable yet frequently concerned about overexertion",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zhao Desheng is a 83-year-old man with intact cognition and preserved route knowledge, physically frail and unsteady on stairs or slopes, and emotionally stable yet frequently concerned about overexertion."
+  },
+  {
+    "id": 22,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Zhang Wenming",
+    "age": 86,
+    "cognitive_level": "intact cognition and preserved route knowledge",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "emotionally stable yet frequently concerned about overexertion",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zhang Wenming is a 86-year-old man with intact cognition and preserved route knowledge, physically frail and easily fatigued when walking, and emotionally stable yet frequently concerned about overexertion."
+  },
+  {
+    "id": 23,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "female",
+    "name": "Chen Xiuying",
+    "age": 72,
+    "cognitive_level": "intact cognition with good orientation and reasoning",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "emotionally stable yet frequently concerned about overexertion",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Chen Xiuying is a 72-year-old woman with intact cognition with good orientation and reasoning, physically frail and easily fatigued when walking, and emotionally stable yet frequently concerned about overexertion."
+  },
+  {
+    "id": 24,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "female",
+    "name": "Zhou Lihua",
+    "age": 89,
+    "cognitive_level": "intact cognition and the ability to follow schedules",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "stable mood with ongoing worries about physical safety",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zhou Lihua is a 89-year-old woman with intact cognition and the ability to follow schedules, physically frail and easily fatigued when walking, and stable mood with ongoing worries about physical safety."
+  },
+  {
+    "id": 25,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "female",
+    "name": "Li Aihua",
+    "age": 77,
+    "cognitive_level": "intact cognition and the ability to follow schedules",
+    "mobility": "physically frail with slow gait and limited endurance",
+    "affect_profile": "stable mood with ongoing worries about physical safety",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Li Aihua is a 77-year-old woman with intact cognition and the ability to follow schedules, physically frail with slow gait and limited endurance, and stable mood with ongoing worries about physical safety."
+  },
+  {
+    "id": 26,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Chen Zhiqiang",
+    "age": 74,
+    "cognitive_level": "intact cognition and preserved route knowledge",
+    "mobility": "physically frail and unsteady on stairs or slopes",
+    "affect_profile": "emotionally stable but concerned about falls and fatigue",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Chen Zhiqiang is a 74-year-old man with intact cognition and preserved route knowledge, physically frail and unsteady on stairs or slopes, and emotionally stable but concerned about falls and fatigue."
+  },
+  {
+    "id": 27,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Li Junjie",
+    "age": 78,
+    "cognitive_level": "intact cognition and preserved route knowledge",
+    "mobility": "physically frail and unsteady on stairs or slopes",
+    "affect_profile": "emotionally stable but concerned about falls and fatigue",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Li Junjie is a 78-year-old man with intact cognition and preserved route knowledge, physically frail and unsteady on stairs or slopes, and emotionally stable but concerned about falls and fatigue."
+  },
+  {
+    "id": 28,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Zhou Jianguo",
+    "age": 88,
+    "cognitive_level": "intact cognition and the ability to follow schedules",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "stable mood with ongoing worries about physical safety",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zhou Jianguo is a 88-year-old man with intact cognition and the ability to follow schedules, physically frail and easily fatigued when walking, and stable mood with ongoing worries about physical safety."
+  },
+  {
+    "id": 29,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Zheng Xiaoming",
+    "age": 89,
+    "cognitive_level": "intact cognition and preserved route knowledge",
+    "mobility": "physically frail with slow gait and limited endurance",
+    "affect_profile": "emotionally stable yet frequently concerned about overexertion",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zheng Xiaoming is a 89-year-old man with intact cognition and preserved route knowledge, physically frail with slow gait and limited endurance, and emotionally stable yet frequently concerned about overexertion."
+  },
+  {
+    "id": 30,
+    "profile_id": "P2",
+    "profile_label": "Cognitively intact, physically frail",
+    "gender": "male",
+    "name": "Zheng Jianhua",
+    "age": 87,
+    "cognitive_level": "intact cognition and the ability to follow schedules",
+    "mobility": "physically frail and easily fatigued when walking",
+    "affect_profile": "emotionally stable yet frequently concerned about overexertion",
+    "expected_mmse_range": [
+      27,
+      30
+    ],
+    "expected_adl_range": [
+      60,
+      85
+    ],
+    "expected_gds_range": [
+      0,
+      5
+    ],
+    "description": "Zheng Jianhua is a 87-year-old man with intact cognition and the ability to follow schedules, physically frail and easily fatigued when walking, and emotionally stable yet frequently concerned about overexertion."
+  },
+  {
+    "id": 31,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Wu Xiuying",
+    "age": 80,
+    "cognitive_level": "near-intact cognition with only mild cognitive slowing",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood with alternating frustration and acceptance",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Wu Xiuying is a 80-year-old woman with near-intact cognition with only mild cognitive slowing, severely limited mobility with very little independent walking, and variable mood with alternating frustration and acceptance."
+  },
+  {
+    "id": 32,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "male",
+    "name": "Chen Guoqiang",
+    "age": 87,
+    "cognitive_level": "near-intact cognition with slightly reduced processing speed",
+    "mobility": "severely limited mobility and frequent need for a wheelchair",
+    "affect_profile": "variable mood that shifts with the ease or difficulty of travel",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Chen Guoqiang is a 87-year-old man with near-intact cognition with slightly reduced processing speed, severely limited mobility and frequent need for a wheelchair, and variable mood that shifts with the ease or difficulty of travel."
+  },
+  {
+    "id": 33,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Wu Guiying",
+    "age": 90,
+    "cognitive_level": "near-intact cognition with only mild cognitive slowing",
+    "mobility": "severely limited mobility and frequent need for a wheelchair",
+    "affect_profile": "variable mood with alternating frustration and acceptance",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Wu Guiying is a 90-year-old woman with near-intact cognition with only mild cognitive slowing, severely limited mobility and frequent need for a wheelchair, and variable mood with alternating frustration and acceptance."
+  },
+  {
+    "id": 34,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Chen Lihua",
+    "age": 71,
+    "cognitive_level": "near-intact cognition with only mild cognitive slowing",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood influenced by pain and accessibility barriers",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Chen Lihua is a 71-year-old woman with near-intact cognition with only mild cognitive slowing, severely limited mobility with very little independent walking, and variable mood influenced by pain and accessibility barriers."
+  },
+  {
+    "id": 35,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "male",
+    "name": "Wu Jianhua",
+    "age": 85,
+    "cognitive_level": "near-intact cognition with slightly reduced processing speed",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood influenced by pain and accessibility barriers",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Wu Jianhua is a 85-year-old man with near-intact cognition with slightly reduced processing speed, severely limited mobility with very little independent walking, and variable mood influenced by pain and accessibility barriers."
+  },
+  {
+    "id": 36,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Li Xiaohong",
+    "age": 81,
+    "cognitive_level": "near-intact cognition with slightly reduced processing speed",
+    "mobility": "severely limited mobility and dependent on assistance",
+    "affect_profile": "variable mood influenced by pain and accessibility barriers",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Li Xiaohong is a 81-year-old woman with near-intact cognition with slightly reduced processing speed, severely limited mobility and dependent on assistance, and variable mood influenced by pain and accessibility barriers."
+  },
+  {
+    "id": 37,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Liu Yuzhen",
+    "age": 81,
+    "cognitive_level": "near-intact cognition and generally preserved memory",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood influenced by pain and accessibility barriers",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Liu Yuzhen is a 81-year-old woman with near-intact cognition and generally preserved memory, severely limited mobility with very little independent walking, and variable mood influenced by pain and accessibility barriers."
+  },
+  {
+    "id": 38,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Zhang Huiqin",
+    "age": 89,
+    "cognitive_level": "near-intact cognition and generally preserved memory",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood that shifts with the ease or difficulty of travel",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Zhang Huiqin is a 89-year-old woman with near-intact cognition and generally preserved memory, severely limited mobility with very little independent walking, and variable mood that shifts with the ease or difficulty of travel."
+  },
+  {
+    "id": 39,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Zhang Xiulan",
+    "age": 70,
+    "cognitive_level": "near-intact cognition with slightly reduced processing speed",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood with alternating frustration and acceptance",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Zhang Xiulan is a 70-year-old woman with near-intact cognition with slightly reduced processing speed, severely limited mobility with very little independent walking, and variable mood with alternating frustration and acceptance."
+  },
+  {
+    "id": 40,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Zhang Guiying",
+    "age": 81,
+    "cognitive_level": "near-intact cognition with slightly reduced processing speed",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood that shifts with the ease or difficulty of travel",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Zhang Guiying is a 81-year-old woman with near-intact cognition with slightly reduced processing speed, severely limited mobility with very little independent walking, and variable mood that shifts with the ease or difficulty of travel."
+  },
+  {
+    "id": 41,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Zheng Guiying",
+    "age": 74,
+    "cognitive_level": "near-intact cognition with only mild cognitive slowing",
+    "mobility": "severely limited mobility and frequent need for a wheelchair",
+    "affect_profile": "variable mood influenced by pain and accessibility barriers",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Zheng Guiying is a 74-year-old woman with near-intact cognition with only mild cognitive slowing, severely limited mobility and frequent need for a wheelchair, and variable mood influenced by pain and accessibility barriers."
+  },
+  {
+    "id": 42,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Zhang Aihua",
+    "age": 85,
+    "cognitive_level": "near-intact cognition and generally preserved memory",
+    "mobility": "severely limited mobility with very little independent walking",
+    "affect_profile": "variable mood influenced by pain and accessibility barriers",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Zhang Aihua is a 85-year-old woman with near-intact cognition and generally preserved memory, severely limited mobility with very little independent walking, and variable mood influenced by pain and accessibility barriers."
+  },
+  {
+    "id": 43,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "male",
+    "name": "Zhao Haiming",
+    "age": 73,
+    "cognitive_level": "near-intact cognition and generally preserved memory",
+    "mobility": "severely limited mobility and frequent need for a wheelchair",
+    "affect_profile": "variable mood with alternating frustration and acceptance",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Zhao Haiming is a 73-year-old man with near-intact cognition and generally preserved memory, severely limited mobility and frequent need for a wheelchair, and variable mood with alternating frustration and acceptance."
+  },
+  {
+    "id": 44,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "male",
+    "name": "Li Desheng",
+    "age": 78,
+    "cognitive_level": "near-intact cognition and generally preserved memory",
+    "mobility": "severely limited mobility and dependent on assistance",
+    "affect_profile": "variable mood influenced by pain and accessibility barriers",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Li Desheng is a 78-year-old man with near-intact cognition and generally preserved memory, severely limited mobility and dependent on assistance, and variable mood influenced by pain and accessibility barriers."
+  },
+  {
+    "id": 45,
+    "profile_id": "P3",
+    "profile_label": "Cognitively intact, severely mobility-limited / disabled",
+    "gender": "female",
+    "name": "Wu Xiuzhen",
+    "age": 74,
+    "cognitive_level": "near-intact cognition and generally preserved memory",
+    "mobility": "severely limited mobility and frequent need for a wheelchair",
+    "affect_profile": "variable mood that shifts with the ease or difficulty of travel",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      20,
+      60
+    ],
+    "expected_gds_range": [
+      0,
+      7
+    ],
+    "description": "Wu Xiuzhen is a 74-year-old woman with near-intact cognition and generally preserved memory, severely limited mobility and frequent need for a wheelchair, and variable mood that shifts with the ease or difficulty of travel."
+  },
+  {
+    "id": 46,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Zhao Guoqiang",
+    "age": 81,
+    "cognitive_level": "mild cognitive impairment with occasional forgetfulness",
+    "mobility": "good mobility and able to manage long walking distances",
+    "affect_profile": "mild anxiety when routes or plans change unexpectedly",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Zhao Guoqiang is a 81-year-old man with mild cognitive impairment with occasional forgetfulness, good mobility and able to manage long walking distances, and mild anxiety when routes or plans change unexpectedly."
+  },
+  {
+    "id": 47,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "female",
+    "name": "Yang Xiulan",
+    "age": 66,
+    "cognitive_level": "mild impairment with reduced short-term memory for routes",
+    "mobility": "good mobility with independent walking and stair use",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Yang Xiulan is a 66-year-old woman with mild impairment with reduced short-term memory for routes, good mobility with independent walking and stair use, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 48,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Chen Junjie",
+    "age": 73,
+    "cognitive_level": "mild impairment with reduced short-term memory for routes",
+    "mobility": "good mobility and quick movement between stops or platforms",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Chen Junjie is a 73-year-old man with mild impairment with reduced short-term memory for routes, good mobility and quick movement between stops or platforms, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 49,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Li Junjie",
+    "age": 65,
+    "cognitive_level": "mild cognitive impairment with occasional forgetfulness",
+    "mobility": "good mobility with independent walking and stair use",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Li Junjie is a 65-year-old man with mild cognitive impairment with occasional forgetfulness, good mobility with independent walking and stair use, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 50,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "female",
+    "name": "Zhou Shuzhen",
+    "age": 69,
+    "cognitive_level": "mild cognitive impairment with occasional forgetfulness",
+    "mobility": "good mobility and quick movement between stops or platforms",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Zhou Shuzhen is a 69-year-old woman with mild cognitive impairment with occasional forgetfulness, good mobility and quick movement between stops or platforms, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 51,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Zheng Yongqiang",
+    "age": 69,
+    "cognitive_level": "mild impairment and slightly inconsistent attention",
+    "mobility": "good mobility with independent walking and stair use",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Zheng Yongqiang is a 69-year-old man with mild impairment and slightly inconsistent attention, good mobility with independent walking and stair use, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 52,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "female",
+    "name": "Zhao Aihua",
+    "age": 76,
+    "cognitive_level": "mild cognitive impairment with occasional forgetfulness",
+    "mobility": "good mobility and able to manage long walking distances",
+    "affect_profile": "mild, travel-related anxiety despite generally adequate function",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Zhao Aihua is a 76-year-old woman with mild cognitive impairment with occasional forgetfulness, good mobility and able to manage long walking distances, and mild, travel-related anxiety despite generally adequate function."
+  },
+  {
+    "id": 53,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "female",
+    "name": "Huang Guilan",
+    "age": 70,
+    "cognitive_level": "mild impairment with reduced short-term memory for routes",
+    "mobility": "good mobility and quick movement between stops or platforms",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Huang Guilan is a 70-year-old woman with mild impairment with reduced short-term memory for routes, good mobility and quick movement between stops or platforms, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 54,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Liu Yongqiang",
+    "age": 71,
+    "cognitive_level": "mild impairment with reduced short-term memory for routes",
+    "mobility": "good mobility and able to manage long walking distances",
+    "affect_profile": "mild, travel-related anxiety despite generally adequate function",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Liu Yongqiang is a 71-year-old man with mild impairment with reduced short-term memory for routes, good mobility and able to manage long walking distances, and mild, travel-related anxiety despite generally adequate function."
+  },
+  {
+    "id": 55,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Zhou Liqiang",
+    "age": 76,
+    "cognitive_level": "mild impairment with reduced short-term memory for routes",
+    "mobility": "good mobility with independent walking and stair use",
+    "affect_profile": "mild, travel-related anxiety despite generally adequate function",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Zhou Liqiang is a 76-year-old man with mild impairment with reduced short-term memory for routes, good mobility with independent walking and stair use, and mild, travel-related anxiety despite generally adequate function."
+  },
+  {
+    "id": 56,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Zheng Junjie",
+    "age": 68,
+    "cognitive_level": "mild impairment and slightly inconsistent attention",
+    "mobility": "good mobility with independent walking and stair use",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Zheng Junjie is a 68-year-old man with mild impairment and slightly inconsistent attention, good mobility with independent walking and stair use, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 57,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "female",
+    "name": "Liu Aihua",
+    "age": 69,
+    "cognitive_level": "mild impairment and slightly inconsistent attention",
+    "mobility": "good mobility and quick movement between stops or platforms",
+    "affect_profile": "mild, travel-related anxiety despite generally adequate function",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Liu Aihua is a 69-year-old woman with mild impairment and slightly inconsistent attention, good mobility and quick movement between stops or platforms, and mild, travel-related anxiety despite generally adequate function."
+  },
+  {
+    "id": 58,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Huang Yongqiang",
+    "age": 78,
+    "cognitive_level": "mild impairment with reduced short-term memory for routes",
+    "mobility": "good mobility and quick movement between stops or platforms",
+    "affect_profile": "mild, travel-related anxiety despite generally adequate function",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Huang Yongqiang is a 78-year-old man with mild impairment with reduced short-term memory for routes, good mobility and quick movement between stops or platforms, and mild, travel-related anxiety despite generally adequate function."
+  },
+  {
+    "id": 59,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Yang Wenming",
+    "age": 79,
+    "cognitive_level": "mild cognitive impairment with occasional forgetfulness",
+    "mobility": "good mobility with independent walking and stair use",
+    "affect_profile": "mild anxiety when routes or plans change unexpectedly",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Yang Wenming is a 79-year-old man with mild cognitive impairment with occasional forgetfulness, good mobility with independent walking and stair use, and mild anxiety when routes or plans change unexpectedly."
+  },
+  {
+    "id": 60,
+    "profile_id": "P4",
+    "profile_label": "Mild cognitive impairment, robust mobility",
+    "gender": "male",
+    "name": "Li Desheng",
+    "age": 85,
+    "cognitive_level": "mild impairment and slightly inconsistent attention",
+    "mobility": "good mobility and able to manage long walking distances",
+    "affect_profile": "mild anxiety about making mistakes during travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      85,
+      100
+    ],
+    "expected_gds_range": [
+      2,
+      7
+    ],
+    "description": "Li Desheng is a 85-year-old man with mild impairment and slightly inconsistent attention, good mobility and able to manage long walking distances, and mild anxiety about making mistakes during travel."
+  },
+  {
+    "id": 61,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Zheng Guoqiang",
+    "age": 78,
+    "cognitive_level": "mild cognitive impairment with noticeable forgetfulness",
+    "mobility": "frail mobility with frequent need to rest while walking",
+    "affect_profile": "mild depression and a generally low mood",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Zheng Guoqiang is a 78-year-old man with mild cognitive impairment with noticeable forgetfulness, frail mobility with frequent need to rest while walking, and mild depression and a generally low mood."
+  },
+  {
+    "id": 62,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "female",
+    "name": "Chen Guiying",
+    "age": 70,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility with frequent need to rest while walking",
+    "affect_profile": "mild depression with reduced interest in going out",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Chen Guiying is a 70-year-old woman with mild impairment with difficulty holding complex routes in mind, frail mobility with frequent need to rest while walking, and mild depression with reduced interest in going out."
+  },
+  {
+    "id": 63,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Zhou Guoqiang",
+    "age": 80,
+    "cognitive_level": "mild impairment and occasional confusion in busy environments",
+    "mobility": "frail mobility with limited walking distance",
+    "affect_profile": "mildly depressed mood that dampens motivation to travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Zhou Guoqiang is a 80-year-old man with mild impairment and occasional confusion in busy environments, frail mobility with limited walking distance, and mildly depressed mood that dampens motivation to travel."
+  },
+  {
+    "id": 64,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "female",
+    "name": "Zheng Aihua",
+    "age": 90,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility with frequent need to rest while walking",
+    "affect_profile": "mild depression and a generally low mood",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Zheng Aihua is a 90-year-old woman with mild impairment with difficulty holding complex routes in mind, frail mobility with frequent need to rest while walking, and mild depression and a generally low mood."
+  },
+  {
+    "id": 65,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Zhou Jialin",
+    "age": 73,
+    "cognitive_level": "mild cognitive impairment with noticeable forgetfulness",
+    "mobility": "frail mobility and unsteady gait on uneven ground",
+    "affect_profile": "mildly depressed mood that dampens motivation to travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Zhou Jialin is a 73-year-old man with mild cognitive impairment with noticeable forgetfulness, frail mobility and unsteady gait on uneven ground, and mildly depressed mood that dampens motivation to travel."
+  },
+  {
+    "id": 66,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Zhou Guoqiang",
+    "age": 86,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility with frequent need to rest while walking",
+    "affect_profile": "mild depression with reduced interest in going out",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Zhou Guoqiang is a 86-year-old man with mild impairment with difficulty holding complex routes in mind, frail mobility with frequent need to rest while walking, and mild depression with reduced interest in going out."
+  },
+  {
+    "id": 67,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Sun Zhiqiang",
+    "age": 80,
+    "cognitive_level": "mild cognitive impairment with noticeable forgetfulness",
+    "mobility": "frail mobility with frequent need to rest while walking",
+    "affect_profile": "mildly depressed mood that dampens motivation to travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Sun Zhiqiang is a 80-year-old man with mild cognitive impairment with noticeable forgetfulness, frail mobility with frequent need to rest while walking, and mildly depressed mood that dampens motivation to travel."
+  },
+  {
+    "id": 68,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "female",
+    "name": "Wang Lihua",
+    "age": 85,
+    "cognitive_level": "mild cognitive impairment with noticeable forgetfulness",
+    "mobility": "frail mobility and unsteady gait on uneven ground",
+    "affect_profile": "mild depression with reduced interest in going out",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Wang Lihua is a 85-year-old woman with mild cognitive impairment with noticeable forgetfulness, frail mobility and unsteady gait on uneven ground, and mild depression with reduced interest in going out."
+  },
+  {
+    "id": 69,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Zhao Haiming",
+    "age": 90,
+    "cognitive_level": "mild impairment and occasional confusion in busy environments",
+    "mobility": "frail mobility with limited walking distance",
+    "affect_profile": "mild depression and a generally low mood",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Zhao Haiming is a 90-year-old man with mild impairment and occasional confusion in busy environments, frail mobility with limited walking distance, and mild depression and a generally low mood."
+  },
+  {
+    "id": 70,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Sun Junjie",
+    "age": 90,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility with limited walking distance",
+    "affect_profile": "mild depression with reduced interest in going out",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Sun Junjie is a 90-year-old man with mild impairment with difficulty holding complex routes in mind, frail mobility with limited walking distance, and mild depression with reduced interest in going out."
+  },
+  {
+    "id": 71,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Yang Liqiang",
+    "age": 88,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility and unsteady gait on uneven ground",
+    "affect_profile": "mildly depressed mood that dampens motivation to travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Yang Liqiang is a 88-year-old man with mild impairment with difficulty holding complex routes in mind, frail mobility and unsteady gait on uneven ground, and mildly depressed mood that dampens motivation to travel."
+  },
+  {
+    "id": 72,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Liu Xiaoming",
+    "age": 75,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility and unsteady gait on uneven ground",
+    "affect_profile": "mild depression with reduced interest in going out",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Liu Xiaoming is a 75-year-old man with mild impairment with difficulty holding complex routes in mind, frail mobility and unsteady gait on uneven ground, and mild depression with reduced interest in going out."
+  },
+  {
+    "id": 73,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Chen Xiaoming",
+    "age": 77,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility and unsteady gait on uneven ground",
+    "affect_profile": "mild depression and a generally low mood",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Chen Xiaoming is a 77-year-old man with mild impairment with difficulty holding complex routes in mind, frail mobility and unsteady gait on uneven ground, and mild depression and a generally low mood."
+  },
+  {
+    "id": 74,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Wang Liqiang",
+    "age": 77,
+    "cognitive_level": "mild impairment and occasional confusion in busy environments",
+    "mobility": "frail mobility with limited walking distance",
+    "affect_profile": "mildly depressed mood that dampens motivation to travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Wang Liqiang is a 77-year-old man with mild impairment and occasional confusion in busy environments, frail mobility with limited walking distance, and mildly depressed mood that dampens motivation to travel."
+  },
+  {
+    "id": 75,
+    "profile_id": "P5",
+    "profile_label": "Mild cognitive impairment, physically frail",
+    "gender": "male",
+    "name": "Liu Guoqiang",
+    "age": 78,
+    "cognitive_level": "mild impairment with difficulty holding complex routes in mind",
+    "mobility": "frail mobility with limited walking distance",
+    "affect_profile": "mildly depressed mood that dampens motivation to travel",
+    "expected_mmse_range": [
+      21,
+      26
+    ],
+    "expected_adl_range": [
+      40,
+      75
+    ],
+    "expected_gds_range": [
+      5,
+      9
+    ],
+    "description": "Liu Guoqiang is a 78-year-old man with mild impairment with difficulty holding complex routes in mind, frail mobility with limited walking distance, and mildly depressed mood that dampens motivation to travel."
+  },
+  {
+    "id": 76,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Liu Jianhua",
+    "age": 74,
+    "cognitive_level": "moderate–severe cognitive impairment with marked memory loss",
+    "mobility": "mobile with aid and able to walk moderate distances",
+    "affect_profile": "anxious and emotionally unstable during travel",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Liu Jianhua is a 74-year-old man with moderate–severe cognitive impairment with marked memory loss, mobile with aid and able to walk moderate distances, and anxious and emotionally unstable during travel."
+  },
+  {
+    "id": 77,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "female",
+    "name": "Liu Aihua",
+    "age": 80,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid and able to walk moderate distances",
+    "affect_profile": "anxious and emotionally unstable during travel",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Liu Aihua is a 80-year-old woman with moderate–severe impairment with frequent disorientation, mobile with aid and able to walk moderate distances, and anxious and emotionally unstable during travel."
+  },
+  {
+    "id": 78,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "female",
+    "name": "Wu Xiuzhen",
+    "age": 75,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid and able to walk moderate distances",
+    "affect_profile": "frequent anxiety and unstable mood in unfamiliar situations",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Wu Xiuzhen is a 75-year-old woman with moderate–severe impairment with frequent disorientation, mobile with aid and able to walk moderate distances, and frequent anxiety and unstable mood in unfamiliar situations."
+  },
+  {
+    "id": 79,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Wang Jianhua",
+    "age": 80,
+    "cognitive_level": "moderate–severe impairment and difficulty following instructions",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "anxious, easily agitated, and emotionally unpredictable",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Wang Jianhua is a 80-year-old man with moderate–severe impairment and difficulty following instructions, mobile with aid but requiring supervision for safety, and anxious, easily agitated, and emotionally unpredictable."
+  },
+  {
+    "id": 80,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Zheng Xiaoming",
+    "age": 83,
+    "cognitive_level": "moderate–severe impairment and difficulty following instructions",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "frequent anxiety and unstable mood in unfamiliar situations",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Zheng Xiaoming is a 83-year-old man with moderate–severe impairment and difficulty following instructions, mobile with aid but requiring supervision for safety, and frequent anxiety and unstable mood in unfamiliar situations."
+  },
+  {
+    "id": 81,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Chen Liqiang",
+    "age": 77,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "anxious and emotionally unstable during travel",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Chen Liqiang is a 77-year-old man with moderate–severe impairment with frequent disorientation, mobile with aid but requiring supervision for safety, and anxious and emotionally unstable during travel."
+  },
+  {
+    "id": 82,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "female",
+    "name": "Li Lihua",
+    "age": 88,
+    "cognitive_level": "moderate–severe cognitive impairment with marked memory loss",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "anxious and emotionally unstable during travel",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Li Lihua is a 88-year-old woman with moderate–severe cognitive impairment with marked memory loss, mobile with aid but requiring supervision for safety, and anxious and emotionally unstable during travel."
+  },
+  {
+    "id": 83,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "female",
+    "name": "Sun Xiaohong",
+    "age": 89,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "frequent anxiety and unstable mood in unfamiliar situations",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Sun Xiaohong is a 89-year-old woman with moderate–severe impairment with frequent disorientation, mobile with aid but requiring supervision for safety, and frequent anxiety and unstable mood in unfamiliar situations."
+  },
+  {
+    "id": 84,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "female",
+    "name": "Huang Xiuzhen",
+    "age": 76,
+    "cognitive_level": "moderate–severe cognitive impairment with marked memory loss",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "frequent anxiety and unstable mood in unfamiliar situations",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Huang Xiuzhen is a 76-year-old woman with moderate–severe cognitive impairment with marked memory loss, mobile with aid but requiring supervision for safety, and frequent anxiety and unstable mood in unfamiliar situations."
+  },
+  {
+    "id": 85,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Wu Guoqiang",
+    "age": 71,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "anxious, easily agitated, and emotionally unpredictable",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Wu Guoqiang is a 71-year-old man with moderate–severe impairment with frequent disorientation, mobile with aid but requiring supervision for safety, and anxious, easily agitated, and emotionally unpredictable."
+  },
+  {
+    "id": 86,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Li Zhiqiang",
+    "age": 72,
+    "cognitive_level": "moderate–severe impairment and difficulty following instructions",
+    "mobility": "mobile with aid and able to walk moderate distances",
+    "affect_profile": "frequent anxiety and unstable mood in unfamiliar situations",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Li Zhiqiang is a 72-year-old man with moderate–severe impairment and difficulty following instructions, mobile with aid and able to walk moderate distances, and frequent anxiety and unstable mood in unfamiliar situations."
+  },
+  {
+    "id": 87,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "female",
+    "name": "Huang Xiulan",
+    "age": 81,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "anxious, easily agitated, and emotionally unpredictable",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Huang Xiulan is a 81-year-old woman with moderate–severe impairment with frequent disorientation, mobile with aid but requiring supervision for safety, and anxious, easily agitated, and emotionally unpredictable."
+  },
+  {
+    "id": 88,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Yang Zhiqiang",
+    "age": 74,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid and able to walk moderate distances",
+    "affect_profile": "anxious and emotionally unstable during travel",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Yang Zhiqiang is a 74-year-old man with moderate–severe impairment with frequent disorientation, mobile with aid and able to walk moderate distances, and anxious and emotionally unstable during travel."
+  },
+  {
+    "id": 89,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "female",
+    "name": "Wu Yuhua",
+    "age": 72,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid but requiring supervision for safety",
+    "affect_profile": "anxious, easily agitated, and emotionally unpredictable",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Wu Yuhua is a 72-year-old woman with moderate–severe impairment with frequent disorientation, mobile with aid but requiring supervision for safety, and anxious, easily agitated, and emotionally unpredictable."
+  },
+  {
+    "id": 90,
+    "profile_id": "P6",
+    "profile_label": "Moderate–severe cognitive impairment, mobile",
+    "gender": "male",
+    "name": "Chen Haiming",
+    "age": 85,
+    "cognitive_level": "moderate–severe impairment with frequent disorientation",
+    "mobility": "mobile with aid and able to walk moderate distances",
+    "affect_profile": "anxious, easily agitated, and emotionally unpredictable",
+    "expected_mmse_range": [
+      10,
+      20
+    ],
+    "expected_adl_range": [
+      50,
+      85
+    ],
+    "expected_gds_range": [
+      6,
+      12
+    ],
+    "description": "Chen Haiming is a 85-year-old man with moderate–severe impairment with frequent disorientation, mobile with aid and able to walk moderate distances, and anxious, easily agitated, and emotionally unpredictable."
+  },
+  {
+    "id": 91,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Wu Yongqiang",
+    "age": 82,
+    "cognitive_level": "moderate–severe impairment and severely reduced understanding of routes",
+    "mobility": "severely limited mobility and mostly wheelchair-bound",
+    "affect_profile": "psychological symptoms including mistrust or suspiciousness",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Wu Yongqiang is a 82-year-old man with moderate–severe impairment and severely reduced understanding of routes, severely limited mobility and mostly wheelchair-bound, and psychological symptoms including mistrust or suspiciousness."
+  },
+  {
+    "id": 92,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Yang Liqiang",
+    "age": 92,
+    "cognitive_level": "moderate–severe impairment with little capacity for independent planning",
+    "mobility": "severely limited mobility and dependent on others for transfers",
+    "affect_profile": "psychological symptoms including mistrust or suspiciousness",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Yang Liqiang is a 92-year-old man with moderate–severe impairment with little capacity for independent planning, severely limited mobility and dependent on others for transfers, and psychological symptoms including mistrust or suspiciousness."
+  },
+  {
+    "id": 93,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Zhang Jialin",
+    "age": 89,
+    "cognitive_level": "moderate–severe cognitive impairment with poor orientation",
+    "mobility": "severely limited mobility with virtually no independent walking",
+    "affect_profile": "psychological symptoms including mistrust or suspiciousness",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhang Jialin is a 89-year-old man with moderate–severe cognitive impairment with poor orientation, severely limited mobility with virtually no independent walking, and psychological symptoms including mistrust or suspiciousness."
+  },
+  {
+    "id": 94,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "female",
+    "name": "Zhang Guiying",
+    "age": 76,
+    "cognitive_level": "moderate–severe impairment with little capacity for independent planning",
+    "mobility": "severely limited mobility with virtually no independent walking",
+    "affect_profile": "psychological symptoms such as agitation or apathy",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhang Guiying is a 76-year-old woman with moderate–severe impairment with little capacity for independent planning, severely limited mobility with virtually no independent walking, and psychological symptoms such as agitation or apathy."
+  },
+  {
+    "id": 95,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Chen Wenming",
+    "age": 76,
+    "cognitive_level": "moderate–severe cognitive impairment with poor orientation",
+    "mobility": "severely limited mobility with virtually no independent walking",
+    "affect_profile": "psychological symptoms including mistrust or suspiciousness",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Chen Wenming is a 76-year-old man with moderate–severe cognitive impairment with poor orientation, severely limited mobility with virtually no independent walking, and psychological symptoms including mistrust or suspiciousness."
+  },
+  {
+    "id": 96,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Wu Xiaoming",
+    "age": 85,
+    "cognitive_level": "moderate–severe impairment and severely reduced understanding of routes",
+    "mobility": "severely limited mobility and mostly wheelchair-bound",
+    "affect_profile": "psychological symptoms with frequent behavioral disturbance",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Wu Xiaoming is a 85-year-old man with moderate–severe impairment and severely reduced understanding of routes, severely limited mobility and mostly wheelchair-bound, and psychological symptoms with frequent behavioral disturbance."
+  },
+  {
+    "id": 97,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "female",
+    "name": "Wu Yuzhen",
+    "age": 92,
+    "cognitive_level": "moderate–severe impairment and severely reduced understanding of routes",
+    "mobility": "severely limited mobility and mostly wheelchair-bound",
+    "affect_profile": "psychological symptoms with frequent behavioral disturbance",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Wu Yuzhen is a 92-year-old woman with moderate–severe impairment and severely reduced understanding of routes, severely limited mobility and mostly wheelchair-bound, and psychological symptoms with frequent behavioral disturbance."
+  },
+  {
+    "id": 98,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "female",
+    "name": "Zhou Xiuying",
+    "age": 79,
+    "cognitive_level": "moderate–severe impairment and severely reduced understanding of routes",
+    "mobility": "severely limited mobility and dependent on others for transfers",
+    "affect_profile": "psychological symptoms including mistrust or suspiciousness",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhou Xiuying is a 79-year-old woman with moderate–severe impairment and severely reduced understanding of routes, severely limited mobility and dependent on others for transfers, and psychological symptoms including mistrust or suspiciousness."
+  },
+  {
+    "id": 99,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "female",
+    "name": "Zhao Yuhua",
+    "age": 85,
+    "cognitive_level": "moderate–severe impairment and severely reduced understanding of routes",
+    "mobility": "severely limited mobility with virtually no independent walking",
+    "affect_profile": "psychological symptoms such as agitation or apathy",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhao Yuhua is a 85-year-old woman with moderate–severe impairment and severely reduced understanding of routes, severely limited mobility with virtually no independent walking, and psychological symptoms such as agitation or apathy."
+  },
+  {
+    "id": 100,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "female",
+    "name": "Li Yuhua",
+    "age": 86,
+    "cognitive_level": "moderate–severe cognitive impairment with poor orientation",
+    "mobility": "severely limited mobility and dependent on others for transfers",
+    "affect_profile": "psychological symptoms including mistrust or suspiciousness",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Li Yuhua is a 86-year-old woman with moderate–severe cognitive impairment with poor orientation, severely limited mobility and dependent on others for transfers, and psychological symptoms including mistrust or suspiciousness."
+  },
+  {
+    "id": 101,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Zhao Desheng",
+    "age": 88,
+    "cognitive_level": "moderate–severe impairment with little capacity for independent planning",
+    "mobility": "severely limited mobility and dependent on others for transfers",
+    "affect_profile": "psychological symptoms with frequent behavioral disturbance",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhao Desheng is a 88-year-old man with moderate–severe impairment with little capacity for independent planning, severely limited mobility and dependent on others for transfers, and psychological symptoms with frequent behavioral disturbance."
+  },
+  {
+    "id": 102,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Sun Junjie",
+    "age": 91,
+    "cognitive_level": "moderate–severe cognitive impairment with poor orientation",
+    "mobility": "severely limited mobility and dependent on others for transfers",
+    "affect_profile": "psychological symptoms such as agitation or apathy",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Sun Junjie is a 91-year-old man with moderate–severe cognitive impairment with poor orientation, severely limited mobility and dependent on others for transfers, and psychological symptoms such as agitation or apathy."
+  },
+  {
+    "id": 103,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "female",
+    "name": "Zhang Yuzhen",
+    "age": 75,
+    "cognitive_level": "moderate–severe impairment with little capacity for independent planning",
+    "mobility": "severely limited mobility and dependent on others for transfers",
+    "affect_profile": "psychological symptoms such as agitation or apathy",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhang Yuzhen is a 75-year-old woman with moderate–severe impairment with little capacity for independent planning, severely limited mobility and dependent on others for transfers, and psychological symptoms such as agitation or apathy."
+  },
+  {
+    "id": 104,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "male",
+    "name": "Yang Liqiang",
+    "age": 80,
+    "cognitive_level": "moderate–severe impairment and severely reduced understanding of routes",
+    "mobility": "severely limited mobility and dependent on others for transfers",
+    "affect_profile": "psychological symptoms such as agitation or apathy",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Yang Liqiang is a 80-year-old man with moderate–severe impairment and severely reduced understanding of routes, severely limited mobility and dependent on others for transfers, and psychological symptoms such as agitation or apathy."
+  },
+  {
+    "id": 105,
+    "profile_id": "P7",
+    "profile_label": "Moderate–severe cognitive impairment, severely mobility-limited",
+    "gender": "female",
+    "name": "Zhao Xiuzhen",
+    "age": 90,
+    "cognitive_level": "moderate–severe impairment and severely reduced understanding of routes",
+    "mobility": "severely limited mobility and mostly wheelchair-bound",
+    "affect_profile": "psychological symptoms such as agitation or apathy",
+    "expected_mmse_range": [
+      8,
+      20
+    ],
+    "expected_adl_range": [
+      0,
+      40
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhao Xiuzhen is a 90-year-old woman with moderate–severe impairment and severely reduced understanding of routes, severely limited mobility and mostly wheelchair-bound, and psychological symptoms such as agitation or apathy."
+  },
+  {
+    "id": 106,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "male",
+    "name": "Chen Wenming",
+    "age": 90,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility with independent walking and transfers",
+    "affect_profile": "depressed mood and socially isolated",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Chen Wenming is a 90-year-old man with subjective cognitive complaints despite near-normal testing, near-normal mobility with independent walking and transfers, and depressed mood and socially isolated."
+  },
+  {
+    "id": 107,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Zheng Yuzhen",
+    "age": 75,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility with only mild physical slowing",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zheng Yuzhen is a 75-year-old woman with subjective cognitive complaints despite near-normal testing, near-normal mobility with only mild physical slowing, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 108,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Chen Xiuzhen",
+    "age": 79,
+    "cognitive_level": "subjective complaints of slowing or forgetfulness without clear deficits",
+    "mobility": "near-normal mobility but infrequent trips outside the home",
+    "affect_profile": "depressed, withdrawn, and often feeling alone",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Chen Xiuzhen is a 79-year-old woman with subjective complaints of slowing or forgetfulness without clear deficits, near-normal mobility but infrequent trips outside the home, and depressed, withdrawn, and often feeling alone."
+  },
+  {
+    "id": 109,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "male",
+    "name": "Liu Junjie",
+    "age": 84,
+    "cognitive_level": "subjective complaints of memory problems with generally normal scores",
+    "mobility": "near-normal mobility but infrequent trips outside the home",
+    "affect_profile": "depressed, withdrawn, and often feeling alone",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Liu Junjie is a 84-year-old man with subjective complaints of memory problems with generally normal scores, near-normal mobility but infrequent trips outside the home, and depressed, withdrawn, and often feeling alone."
+  },
+  {
+    "id": 110,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "male",
+    "name": "Wu Guoqiang",
+    "age": 68,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility with only mild physical slowing",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Wu Guoqiang is a 68-year-old man with subjective cognitive complaints despite near-normal testing, near-normal mobility with only mild physical slowing, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 111,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Yang Aihua",
+    "age": 87,
+    "cognitive_level": "subjective complaints of memory problems with generally normal scores",
+    "mobility": "near-normal mobility with independent walking and transfers",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Yang Aihua is a 87-year-old woman with subjective complaints of memory problems with generally normal scores, near-normal mobility with independent walking and transfers, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 112,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Wang Xiuzhen",
+    "age": 88,
+    "cognitive_level": "subjective complaints of memory problems with generally normal scores",
+    "mobility": "near-normal mobility with independent walking and transfers",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Wang Xiuzhen is a 88-year-old woman with subjective complaints of memory problems with generally normal scores, near-normal mobility with independent walking and transfers, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 113,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Zhou Xiulan",
+    "age": 80,
+    "cognitive_level": "subjective complaints of slowing or forgetfulness without clear deficits",
+    "mobility": "near-normal mobility with only mild physical slowing",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhou Xiulan is a 80-year-old woman with subjective complaints of slowing or forgetfulness without clear deficits, near-normal mobility with only mild physical slowing, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 114,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "male",
+    "name": "Wang Jianguo",
+    "age": 74,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility but infrequent trips outside the home",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Wang Jianguo is a 74-year-old man with subjective cognitive complaints despite near-normal testing, near-normal mobility but infrequent trips outside the home, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 115,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Yang Xiuying",
+    "age": 67,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility with only mild physical slowing",
+    "affect_profile": "depressed mood and socially isolated",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Yang Xiuying is a 67-year-old woman with subjective cognitive complaints despite near-normal testing, near-normal mobility with only mild physical slowing, and depressed mood and socially isolated."
+  },
+  {
+    "id": 116,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "male",
+    "name": "Chen Liqiang",
+    "age": 67,
+    "cognitive_level": "subjective complaints of slowing or forgetfulness without clear deficits",
+    "mobility": "near-normal mobility but infrequent trips outside the home",
+    "affect_profile": "depressed, withdrawn, and often feeling alone",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Chen Liqiang is a 67-year-old man with subjective complaints of slowing or forgetfulness without clear deficits, near-normal mobility but infrequent trips outside the home, and depressed, withdrawn, and often feeling alone."
+  },
+  {
+    "id": 117,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Zheng Yuzhen",
+    "age": 65,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility with independent walking and transfers",
+    "affect_profile": "depressed, withdrawn, and often feeling alone",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zheng Yuzhen is a 65-year-old woman with subjective cognitive complaints despite near-normal testing, near-normal mobility with independent walking and transfers, and depressed, withdrawn, and often feeling alone."
+  },
+  {
+    "id": 118,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "male",
+    "name": "Zhao Guoqiang",
+    "age": 76,
+    "cognitive_level": "subjective complaints of memory problems with generally normal scores",
+    "mobility": "near-normal mobility with only mild physical slowing",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zhao Guoqiang is a 76-year-old man with subjective complaints of memory problems with generally normal scores, near-normal mobility with only mild physical slowing, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 119,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "female",
+    "name": "Zheng Xiulan",
+    "age": 90,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility but infrequent trips outside the home",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Zheng Xiulan is a 90-year-old woman with subjective cognitive complaints despite near-normal testing, near-normal mobility but infrequent trips outside the home, and persistent low mood with marked social isolation."
+  },
+  {
+    "id": 120,
+    "profile_id": "P8",
+    "profile_label": "Emotionally vulnerable / socially isolated",
+    "gender": "male",
+    "name": "Huang Guoqiang",
+    "age": 79,
+    "cognitive_level": "subjective cognitive complaints despite near-normal testing",
+    "mobility": "near-normal mobility with only mild physical slowing",
+    "affect_profile": "persistent low mood with marked social isolation",
+    "expected_mmse_range": [
+      26,
+      30
+    ],
+    "expected_adl_range": [
+      80,
+      100
+    ],
+    "expected_gds_range": [
+      8,
+      15
+    ],
+    "description": "Huang Guoqiang is a 79-year-old man with subjective cognitive complaints despite near-normal testing, near-normal mobility with only mild physical slowing, and persistent low mood with marked social isolation."
+  }
+]
