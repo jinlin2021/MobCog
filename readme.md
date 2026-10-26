@@ -1,4 +1,4 @@
-# CityCog-Agent: A Multimodal Framework for Modeling Cognitive Load in Elderly Urban Mobility
+# MobCog: Multimodal Agent Modeling of Cognitive Load in Elderly Urban Mobility
 
 ## Overview
 
@@ -11,10 +11,10 @@ multimodal networks, frequent transfers, and time pressure. This
 limitation makes it difficult to capture route deviations, trip aban-
 donment, and resulting mobility inequities among older travelers
 with heterogeneous health and cognitive conditions. To address this,
-we propose **CityCog-Agent**, a multimodal agent-based framework
+we propose **MobCog**, a multimodal agent-based framework
 for modeling cognitive load in elderly urban mobility. Guided by a
 three-dimensional framework of **Accessibility**, **Comprehensibility**,
-and **Cognitive Resilience (ACC)**, CityCog-Agent formalizes travel
+and **Cognitive Resilience (ACC)**, MobCog formalizes travel
 as a closed-loop decision cycle encompassing perception, cognition,
 and action. Powered by a multimodal large model with chain-of-
 thought reasoning, the framework integrates visual, linguistic, and
@@ -40,12 +40,12 @@ Ensure you have access to OpenAI’s API for language model inference.
 
 The pipeline consists of two stages:
 
-1. **CityCog-Agent simulation** – run the elderly CityCog-Agent on all trips and log step-wise reasoning, tool use, and memory state.
+1. **MobCog simulation** – run the elderly MobCog on all trips and log step-wise reasoning, tool use, and memory state.
 2. **Cognitive-Interview** – run post-task interviews on the saved simulation logs to obtain subjective, memory-guided narratives.
 
 ---
 
-### 1 Running CityCog-Agent
+### 1 Running MobCog
 
 This step generates the main simulation file `results/simulation_outputs.jsonl`, which will later be used by the Cognitive-Interview module.
 
